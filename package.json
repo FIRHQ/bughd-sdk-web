@@ -1,0 +1,22 @@
+{
+  "name": "bughd",
+  "version": "0.0.15",
+  "description": "",
+  "main": "bughd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FIRHQ/bughd-sdk-web.git"
+  },
+  "keywords": [
+    "bughd web"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FIRHQ/bughd-sdk-web/issues"
+  },
+  "homepage": "https://github.com/FIRHQ/bughd-sdk-web#readme"
+}
